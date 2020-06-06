@@ -2,7 +2,7 @@
 ..\obj\led.o: ..\My_code\led.h
 ..\obj\led.o: ..\USER\stm32f10x.h
 ..\obj\led.o: ..\CORE\core_cm3.h
-..\obj\led.o: D:\MDK5.14\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\led.o: D:\MDK5.14\ARM\ARMCC\bin\..\include\stdint.h
 ..\obj\led.o: ..\USER\system_stm32f10x.h
 ..\obj\led.o: ..\USER\stm32f10x_conf.h
 ..\obj\led.o: ..\STM32F10X_FWLid\inc\stm32f10x_adc.h

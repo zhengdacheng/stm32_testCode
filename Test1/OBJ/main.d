@@ -3,7 +3,7 @@
 ..\obj\main.o: ..\SYSTEM\delay\delay.h
 ..\obj\main.o: ..\USER\stm32f10x.h
 ..\obj\main.o: ..\CORE\core_cm3.h
-..\obj\main.o: D:\MDK5.14\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\main.o: D:\MDK5.14\ARM\ARMCC\bin\..\include\stdint.h
 ..\obj\main.o: ..\USER\system_stm32f10x.h
 ..\obj\main.o: ..\USER\stm32f10x_conf.h
 ..\obj\main.o: ..\STM32F10X_FWLid\inc\stm32f10x_adc.h
